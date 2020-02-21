@@ -5,3 +5,4 @@ node{
   stage('compaile-package'){
   sh 'mvn package'
   }
+}
